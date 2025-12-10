@@ -6,6 +6,7 @@ Instead of loading the entire file into memory, the generator delivers one line 
 
 ## File
 - `generator_file_line.py`: contains the generator function and usage examples.
+- `dados.txt`: simple database example
 
 ## Example
 ```python
